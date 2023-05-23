@@ -1,6 +1,6 @@
 # **Apple Algorithmic Trading**
 
-![alt text](https://github.com/Cristhian-Ninanya/Apple_Algorithmic_Trading/blob/main/images/apple_stock.png?raw=true)
+![alt text](https://github.com/Cristhian-Ninanya/Apple_Algorithmic_Trading/blob/main/Images/apple_stock.png?raw=true)
 
 **Data Set Information:**
 
@@ -41,13 +41,13 @@ Implement an Algorithm Trading strategy known as the momentum strategy on stock 
 
 ## CLose Price and Momentum Strategy:
 
-![alt text](https://github.com/Cristhian-Ninanya/Apple_Algorithmic_Trading/blob/main/images/fig1.png?raw=true)
+![alt text](https://github.com/Cristhian-Ninanya/Apple_Algorithmic_Trading/blob/main/Images/fig1.png?raw=true)
 
 *we can observe that when the Momentum Strategy (represented by the red line) is positive, the Close Price tends to increase. Conversely, when the Momentum is negative, the Close Price tends to decrease*
 
 ## Trading (buying/selling markers)
 
-![alt text](https://github.com/Cristhian-Ninanya/Apple_Algorithmic_Trading/blob/main/images/fig2.png?raw=true)
+![alt text](https://github.com/Cristhian-Ninanya/Apple_Algorithmic_Trading/blob/main/Images/fig2.png?raw=true)
 
 *In the graph above, the buy signals are indicated by green triangle-up markers, while the sell signals are indicated by red triangle-down markers.*
 
